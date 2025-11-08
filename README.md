@@ -13,8 +13,9 @@
 Hi! I'm **Ali Hajivand**, a Junior .NET Developer and SRE enthusiast. I combine backend development with reliable infrastructure practices, focusing on building **scalable, observable, and maintainable systems**.
 
 * 🌍 Location: Tehran, Iran
-* 📧 Email: [alihajivand14@gmail.com](mailto:alihajivand14@gmail.com)
+
 * 💻 GitHub: [github.com/Hajivandali](https://github.com/Hajivandali)
+* 💻 WebSite: [Ali hajivand](https://Hajiv.com)
 
 ## 🛠 Skills
 
